@@ -8,7 +8,7 @@
 ## 0x01. WhatsApp ipa 脱壳 历史版本
 
 
-- 最近版本: [whatsapp_2.21.110.zip](/versions/whatsapp_2.21.110.zip)
+- 最近版本: [whatsapp_2.21.110.zip](/versions/)
 
 
 
