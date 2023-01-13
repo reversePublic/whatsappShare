@@ -1,4 +1,4 @@
-# whatsapp api Share  about yowsup
+# whatsapp api Share  about yowsup  telegram：@tgforme2
 
 **基于WhatsApp iOS协议逆向的共享资源**
 
